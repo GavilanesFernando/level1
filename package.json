@@ -1,0 +1,22 @@
+{
+  "name": "level1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavilanesFernando/level1.git"
+  },
+  "author": "Gavilanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavilanesFernando/level1/issues"
+  },
+  "homepage": "https://github.com/GavilanesFernando/level1#readme",
+  "dependencies": {
+    "backpack-core": "^0.8.3"
+  }
+}
